@@ -130,7 +130,7 @@ These endpoints allow CRUD operations on users.
 ```json
 {
   "id": 1,
-  "username": "prasha"
+  "username": "suraj"
 }
 ```
 
@@ -293,11 +293,11 @@ These endpoints allow CRUD operations on users.
   "users": [
     {
       "id": 1,
-      "name": "prasha"
+      "name": "suraj"
     },
     {
       "id": 2,
-      "name": "vishal"
+      "name": "ajay"
     }
   ],
   "created_at": "2019-12-24T11:03:55.931739+05:30",
