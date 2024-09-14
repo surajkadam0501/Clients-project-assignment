@@ -118,7 +118,7 @@ These endpoints allow CRUD operations on users.
 ```json
 [
   { "id": 1, "username": "admin" },
-  { "id": 2, "username": "prasad" }
+  { "id": 2, "username": "suraj" }
 ]
 ```
 
